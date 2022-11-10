@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Deleloper/Student/Enthusiast)`**
 
-Welcome to my Github! I am a third year software engineering student at the University of Alberta in 🇨🇦! All my projects are build with two things in mind: my passion to create, and a motivation to learn.
+Welcome to my Github! I am a third year software engineering student at the University of Alberta in 🇨🇦! All my projects are built with two things in mind: my passion to create, and a motivation to learn.
 
 <p align="left">
       <a href="https://www.linkedin.com/in/lynden-jones-39022a226/">
