@@ -1,6 +1,6 @@
 # 🏌️‍ Lynden Jones
 
-**`Digital Craftsman (Deleloper/Student/Enthusiast)`**
+**`Digital Craftsman (Developer/Student/Enthusiast)`**
 
 Welcome to my Github! I am a third year software engineering student at the University of Alberta in 🇨🇦! All my projects are built with two things in mind: my passion to create, and a motivation to learn.
 
