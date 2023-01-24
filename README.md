@@ -9,6 +9,7 @@ Welcome to my Github! I am a third year software engineering student at the Univ
          <img alt="followers" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
    </p>
 
+![Lynden's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyndenj&show_icons=true&theme=gruvbox)
 <!--
 **LyndenJ/LyndenJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
