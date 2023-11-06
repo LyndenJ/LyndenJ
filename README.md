@@ -5,9 +5,13 @@
 Welcome to my Github! I am a fourth year software engineering student at the University of Alberta in 🇨🇦! All my projects are built with two things in mind: creative exploration, and professional development. I'm particularily interested in Machine Learning and Robotics!
 
 <p align="left">
-      <a href="https://www.linkedin.com/in/lynden-jones-39022a226/">
-         <img alt="followers" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-   </p>
+      <a href="https://www.linkedin.com/in/lynden-jones-39022a226/" target="_blank">
+         <img alt="followers" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      </a>
+      <a href="https://devpost.com/lyndenjones0" target="_blank">
+            <img alt="Devpost" title="Check out my Hackathon Projects" src="https://img.shields.io/badge/Devpost-003E54?logo=devpost&logoColor=fff&style=for-the-badge"/>
+      </a>
+</p>
 
 ![Lynden's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyndenj&show_icons=true&theme=gruvbox)
 <!--
