@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Student/Enthusiast)`**
 
-Welcome to my Github! I am a fourth year software engineering student at the University of Alberta in 🇨🇦! All my projects are built with two things in mind: creative exploration, and professional development. I'm particularily interested in Machine Learning and Robotics!
+Welcome to my Github! I am a fourth year software engineering student at the University of Alberta in 🇨🇦! All my projects are made with two things in mind: creative exploration and professional development. I'm particularily interested in Machine Learning and Robotics!
 
 <p align="left">
       <a href="https://www.linkedin.com/in/lynden-jones-39022a226/" target="_blank">
@@ -13,7 +13,7 @@ Welcome to my Github! I am a fourth year software engineering student at the Uni
       </a>
 </p>
 
-![Lynden's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyndenj&show_icons=true&theme=gruvbox)
+<!--![Lynden's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyndenj&show_icons=true&theme=gruvbox) --!>
 <!--
 **LyndenJ/LyndenJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
